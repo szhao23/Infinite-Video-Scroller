@@ -1,5 +1,5 @@
 {
-  "name": "code",
+  "name": "infinite-video-scroller",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.6.1",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
   }
 }
